@@ -1,4 +1,3 @@
 # Dio-Instagram
-. Reprodução da página incial de Login do Instagram
-. Utilizando HTML e CSS
+. Reprodução da página incial  interface de login do Instagram. Bootcamp DIO 
 .
